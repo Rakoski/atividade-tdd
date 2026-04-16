@@ -1,6 +1,6 @@
 # atividade-tdd
 
-10 commits no total
+11 commits no total
 
 ## Divisão:
 
@@ -22,4 +22,4 @@
 - [ x ] Refatoração da classe e do método isValid para melhor legibilidade
 - [ x ] Tive dificultade em encontrar uma classe (que eventualmente era a Character) que fazia tudo que eu precisava de uma forma mais legível, eu sabia que ela existia mas tive que pesquisar pra descobrir que era a "Character"
 
-Eu acho que o TDD e o jeito q ele me obrigou a pensar no comportamento esperado da validação antes mesmo de me preocupar com a sintaxe do Java me deu a confiança de por exemplo trocar os meus próprios métodos pelos da classe Character sem sentir medo de quebrar em prod/não dar certo
+Eu acho que o TDD e o jeito q ele me obrigou a pensar no comportamento esperado da validação antes mesmo de me preocupar com a sintaxe do Java me deu a confiança de por exemplo trocar os meus próprios métodos pelos da classe Character sem sentir medo de quebrar em prod/não dar certo, além de permitir eu ficar mais tranquilo com commitar/refatorar código.
